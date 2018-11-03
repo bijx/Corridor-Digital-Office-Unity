@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\models\Gun\GunShoot.cs">
+    <Files>
+      <File FileName="Assets\RestrictionZone.cs" Line="1" Column="1" />
+      <File FileName="Assets\SteamVR\InteractionSystem\Core\Scripts\Hand.cs" Line="1" Column="1" />
+      <File FileName="Assets\models\Gun\Despawn.cs" Line="9" Column="31" />
+      <File FileName="Assets\models\Gun\GunShoot.cs" Line="34" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
