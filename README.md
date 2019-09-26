@@ -13,3 +13,5 @@ You might be wondering why someone would go through the trouble to create someth
 
 
 [Zombie defender game video](https://www.youtube.com/watch?v=VEiih3RpVis&feature=youtu.be)
+
+![Demo Picture](https://imgur.com/HmknXnj.jpg)
