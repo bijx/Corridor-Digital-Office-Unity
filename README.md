@@ -7,3 +7,7 @@ This Unity project is my attempt at reconstructing the office space belonging to
 ## Why bother?
 You might be wondering why someone would go through the trouble to create something like this, and it's certainly a valid question. At first, I just wanted a fun little side project to work on and this ended up being the perfect task. But after actually going through the time and effort to make this, I decided to release what I'd done to the internet to see if anyone could make a novel game or have some practical use for it. 
 
+
+## Demo Links
+[Building walkthrough video](https://www.youtube.com/watch?v=y837jpOHjUw&feature=youtu.be)
+[Zombie defender game video](https://www.youtube.com/watch?v=VEiih3RpVis&feature=youtu.be)
